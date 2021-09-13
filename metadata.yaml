@@ -1,0 +1,27 @@
+_repo: The-Cyclopedia-of-the-Colored-Baptists-of-Alabama-Their-Leaders-and-Their-Work_66204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boothe, Charles Octavius
+    gutenberg_agent_id: '53682'
+    url: http://www.gutenberg.org/2009/agents/53682
+description: ''
+gutenberg_issued: '2021-09-02'
+identifiers:
+  gutenberg: '66204'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=emu.010002428913
+pgterms:marc905: 20181123040747boothe
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: hekula03, sf2001, and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :Alabama Publishing Company,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Cyclopedia of the Colored Baptists of Alabama: Their Leaders and Their
+  Work'
+url: http://www.gutenberg.org/ebooks/66204
